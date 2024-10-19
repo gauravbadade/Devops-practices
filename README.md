@@ -1,6 +1,7 @@
 How to Use the Script
 
 Step 1st :-  Create the script file use below linux command:
+
    nano server-stats.sh
 
 Step 2nd  :- Copy and paste the script into the file.
