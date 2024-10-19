@@ -1,5 +1,5 @@
-
-You can access the project page at: [Project Page URL]:- [ https://github.com/gauravbadade/Devops-practices.git]
+## Project Page URL
+You can access the project page at: [Project Page URL]:- ( https://github.com/gauravbadade/Devops-practices.git)
 
 How to Use the Script
 
